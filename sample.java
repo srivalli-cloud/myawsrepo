@@ -9,4 +9,8 @@ public function1()
 public function2()
 {	
 	system.out.println("function2 code added");
+}
+public funtion3()
+{
+	system.out.println("function3 code addede");
 }	
