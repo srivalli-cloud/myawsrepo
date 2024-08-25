@@ -22,5 +22,9 @@ public funtion3()
 public function4()
 {	
 	system.out.println("function4 code added");
+}
+public function5()
+{
+	system.out.println("function5 code added");
 }	
 
